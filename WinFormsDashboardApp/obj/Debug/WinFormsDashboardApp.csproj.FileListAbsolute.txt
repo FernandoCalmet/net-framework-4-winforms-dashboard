@@ -1,0 +1,11 @@
+D:\Github\FernandoCalmet\NET-Framework-4-WinForms-Dashboard\WinFormsDashboardApp\bin\Debug\WinFormsDashboardApp.exe.config
+D:\Github\FernandoCalmet\NET-Framework-4-WinForms-Dashboard\WinFormsDashboardApp\bin\Debug\WinFormsDashboardApp.exe
+D:\Github\FernandoCalmet\NET-Framework-4-WinForms-Dashboard\WinFormsDashboardApp\bin\Debug\WinFormsDashboardApp.pdb
+D:\Github\FernandoCalmet\NET-Framework-4-WinForms-Dashboard\WinFormsDashboardApp\obj\Debug\WinFormsDashboardApp.csproj.AssemblyReference.cache
+D:\Github\FernandoCalmet\NET-Framework-4-WinForms-Dashboard\WinFormsDashboardApp\obj\Debug\WinFormsDashboardApp.csproj.SuggestedBindingRedirects.cache
+D:\Github\FernandoCalmet\NET-Framework-4-WinForms-Dashboard\WinFormsDashboardApp\obj\Debug\WinFormsDashboardApp.Properties.Resources.resources
+D:\Github\FernandoCalmet\NET-Framework-4-WinForms-Dashboard\WinFormsDashboardApp\obj\Debug\WinFormsDashboardApp.UI.WinForm.Dashboard.resources
+D:\Github\FernandoCalmet\NET-Framework-4-WinForms-Dashboard\WinFormsDashboardApp\obj\Debug\WinFormsDashboardApp.csproj.GenerateResource.cache
+D:\Github\FernandoCalmet\NET-Framework-4-WinForms-Dashboard\WinFormsDashboardApp\obj\Debug\WinFormsDashboardApp.csproj.CoreCompileInputs.cache
+D:\Github\FernandoCalmet\NET-Framework-4-WinForms-Dashboard\WinFormsDashboardApp\obj\Debug\WinFormsDashboardApp.exe
+D:\Github\FernandoCalmet\NET-Framework-4-WinForms-Dashboard\WinFormsDashboardApp\obj\Debug\WinFormsDashboardApp.pdb
