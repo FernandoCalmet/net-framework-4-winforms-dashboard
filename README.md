@@ -30,6 +30,12 @@ Ejecutar aplicación por consola.
 dotnet run
 ```
 
+## DEMO
+
+![default dashboard](.github/img/dashboard1.png)
+
+![colored dashboard](.github/img/dashboard2.png)
+
 ## 📄 LICENCIA
 
 Este proyecto está bajo la Licencia (Licencia MIT) - mire el archivo [LICENSE](LICENSE) para más detalles.
