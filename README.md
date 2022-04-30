@@ -20,7 +20,7 @@ Este proyecto es una muestra base de un panel de datos (Dashboard) con C# NET.Fr
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/NET-Framework-4-WinForms-Dashboard
+gh repo clone FernandoCalmet/net-framework-4-winforms-dashboard
 ```
 ### EJECUTAR
 
